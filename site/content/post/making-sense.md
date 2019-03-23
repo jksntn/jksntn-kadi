@@ -1,27 +1,22 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+title: 'Solusi Transfer Uang Tanpa Kena Biaya Admin, Gunakan OVO'
+date: 2019-02-28T15:04:10.000Z
+description: "Demi kenyamanan, tips ini mungkin berlaku hanya sementara (awal Tahun 2019), karena mungkin beberapa bulan atau tahun depan tips ini tidak berlaku lagi karena perubahan terms and condition OVO atau bank. Dan saya tidak dibayar oleh OVO atas tulisan ini* \U0001F60C\n"
+image: /img/nzq2pcm.png
 ---
+Kalau kamu sering merasa males transfer beda bank karena bakal kena potongan 5.000 atau 6.500, atau bahkan 7.500 rupiah, maka tips ini tepat untukmu.
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Sebelumnya, saya menggunakan layanan [flip.id](https://flip.id/), sistem kerjanya sama, saya transfer ke flip, nanti flip yang mentrasfer uangmu itu ke rekening tujuan. Tapi, sayangnya kadang prosesnya lama dan belum semua bank bisa dilayani flip.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Ok, jadi prosedurnya adalah:  
 
-## What the updates mean to you
+- [Top up akun OVO](https://www.ovo.id/howtotopup) mu menggunakan apapun itu (ATM, Internet Banking, atau Mobile Banking). 
+- Kemudian transfer saldo di OVO mu itu ke rekening Bank tujuan transfermu, dan viola... kamu berhasil transfer uang tanpa biaya administrasi. 
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Tapi supaya bisa menggunakan fitur transfer, pastikan OVO mu sudah diupgrade ke layanan [OVO primer](https://www.ovo.id/faq), caranya simpel, tinggal mengirimkan data diri ke pihak OVO (foto muka dan KTP).
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+Cara ini kamu bisa implementasikan juga untuk bisnis onlinemu, kamu tinggal meminta pembeli untuk mentransfer atau top up uang ke akun OVO mu. 
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+✋ **Perhatian!** Dengan kamu mengirimkan data diri, harap diperhatikan bahwa data privasi kamu sudah tercatat di OVO, apabila kamu termasuk orang yang consent terhadap hal ini, silakan tidak menggunakan OVO sama sekali 👌.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Semoga Bermanfaat 👋.
